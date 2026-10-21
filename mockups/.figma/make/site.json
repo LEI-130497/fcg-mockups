@@ -1,0 +1,10 @@
+{
+  "description": "Generates tailored mockups by interactively asking users for details beyond reports, adapting designs based on their responses for precise project delivery.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
