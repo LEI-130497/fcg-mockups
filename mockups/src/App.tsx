@@ -211,11 +211,6 @@ export default function App() {
                     <button type="button">Controls</button>
                     <button type="button">Settings</button>
                     <button onClick={showGeneration} type="button">Return to simulation</button>
-                    <div className="controls-summary">
-                      <div><kbd>W A S D</kbd><span>Move</span></div>
-                      <div><kbd>MOUSE</kbd><span>Look around</span></div>
-                      <div><kbd>ESC</kbd><span>Close menu</span></div>
-                    </div>
                   </div>
                 </div>
               )}
